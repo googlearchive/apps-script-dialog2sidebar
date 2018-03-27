@@ -1,3 +1,7 @@
+# This repo has been moved to [apps-script-samples](https://github.com/gsuitedevs/apps-script-samples/tree/master/docs/dialog2sidebar).
+
+---
+
 # Dialog to Sidebar Communication in Apps Script
 
 This script demonstrates a method of setting up a communication channel between
